@@ -11,7 +11,7 @@ body {
 
 /* .....The main container style....... */
 #main {
-    background: linear-gradient(180deg, red, white);
+    background: linear-gradient(180deg, rgb(248, 15, 15), white);
     margin: 1.25em 0.625em;
     padding: 0.625em;
     border: 1px solid rgb(190, 182, 182);
